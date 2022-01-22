@@ -1,0 +1,23 @@
+.add-user-name{
+    padding: 10px;
+    background-color:pink;
+    color: white;
+    margin: 10px;
+}
+.add-avatar{
+    padding: 10px;
+    background-color: pink;
+    margin: 10px;
+}
+button{
+    padding: 10px;
+    background-color: powderblue;
+}
+.bt1{
+    padding: 10px;
+    background-color: turquoise;
+}
+.bt2{
+    padding: 10px;
+    background-color: turquoise;
+}
